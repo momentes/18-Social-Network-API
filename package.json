@@ -5,16 +5,21 @@
   "main": "index.js",
   "license": "MIT",
   "scripts": {
-    "start": "node index",
-    "dev": "nodemon index",
-    "seed": "node utils/seed",
-    "heroku-postbuild": "node utils/seed.js"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/momentes/18-Social-Network-API.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/momentes/18-Social-Network-API/issues"
+  },
+  "homepage": "https://github.com/momentes/18-Social-Network-API#readme",
   "dependencies": {
-    "express": "^4.17.1",
-    "mongoose": "^6.0.13"
-  },
-  "devDependencies": {
-    "nodemon": "^2.0.9"
+    "express": "^4.18.2",
+    "mongoose": "^7.0.3",
+    "validator": "^13.9.0"
   }
 }
