@@ -1,5 +1,5 @@
 # Module-18-Challenge
-Bootcamp Module 83 Challenge - No SQL Social Media API
+Bootcamp Module 18 Challenge - No SQL Social Media API
 
 The challenge is to build an API for a social network web application where users can share their thoughts, react to friends’ thoughts, and create a friend list. Use Express.js for routing, a MongoDB database, and the Mongoose ODM. In addition to using the Express.jsLinks to an external site. and MongooseLinks to an external site. packages, may also optionally use a JavaScript date library of your choice or the native JavaScript Date object to format timestamps.
 
