@@ -38,14 +38,13 @@ node index.js or npm start
 to start local host
 
 
+
 # Project Links:
 [Video Directory](https://github.com/momentes/18-Social-Network-API/tree/main/video)
 
 **Video Link**
 
-Forgotten to record the mySQL database schema, shell and start application prior to to testing. Re-recorded as a separate video
-
-[Video Link](https://drive.google.com/file/d/1rjSouZ2g2cVcMdzt_1WF2sflrS-aFL-t/view?usp=sharing)
+https://drive.google.com/file/d/1rjSouZ2g2cVcMdzt_1WF2sflrS-aFL-t/view?usp=sharing
 
 
 **Repo Link**
@@ -54,9 +53,9 @@ https://github.com/momentes/18-Social-Network-API
 
 **Screenshot**
 
-<img src="/images/NoSQL-Social-Media-API-01.png" width=75%>
+<img src="/images/NoSQL-Social-Media-API-01.png" width=80%>
 
-<img src="/images/NoSQL-Social-Media-API-02.png" width=75%>
+<img src="/images/NoSQL-Social-Media-API-02.png" width=80%>
 
 
 # License
