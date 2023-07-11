@@ -1,7 +1,7 @@
+
 const { Schema, model } = require ('mongoose');
 const {isEmail} = require('validator');
 
-// Schema to create User model
 const userSchema = new Schema(
     {
         username: {
@@ -39,7 +39,6 @@ const userSchema = new Schema(
     }
 );
 
-//create  a virtual property 'friendCount' that get the amount of friends length
 userSchema.virtual('friendCount').get(function(){
     return this.friends.length;
 });
